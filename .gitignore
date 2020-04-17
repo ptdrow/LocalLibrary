@@ -1,0 +1,11 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+llvenv
+db.sqlite3
+.DS_Store
+*.log
+*.pot
+local_settings.py
+media
